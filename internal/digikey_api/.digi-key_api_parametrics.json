@@ -1,0 +1,21 @@
+{
+    "1500": "Height - Seated (Max)",
+    "16": "Package / Case",
+    "1989": "Part Status",
+    "2049": "Capacitance",
+    "2079": "Voltage - Rated",
+    "2253": "Ripple Current @ Low Frequency",
+    "2260": "Ripple Current @ High Frequency",
+    "252": "Operating Temperature",
+    "3": "Tolerance",
+    "405": "Applications",
+    "46": "Size / Dimension",
+    "508": "Lead Spacing",
+    "52": "Polarization",
+    "69": "Mounting Type",
+    "7": "Packaging",
+    "707": "Ratings",
+    "724": "ESR (Equivalent Series Resistance)",
+    "725": "Lifetime @ Temp.",
+    "884": "Surface Mount Land Size"
+}

@@ -1,0 +1,12 @@
+{
+    "API_CLIENT_ID": "c9679e53-cbcd-4430-88d0-9e2c8cd35c81",
+    "API_REDIRECT_URI": "https://localhost",
+    "API_SECRET": "L0iQ1vW6jF0kG7lW6vF2eA8fJ8eH1jD7qU5kW3mH0pR1dV5tP8",
+    "CONTEXT": {
+        "ACCESS_TOKEN": "0003hphHfjGi4Kcxzp94n2pItfni",
+        "REFRESH_TOKEN": "C4da0AAXF5K1mdlO9xVsl6rNd5DplCFQhUTeEXrXb6"
+    },
+    "DEBUG": "FALSE",
+    "LOGIN_NAME": "dmytro.medintsev",
+    "LOGIN_PASSWORD": "LAmp04rf_1"
+}
